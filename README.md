@@ -6,7 +6,7 @@
     <h4><b>Hi👋, I'm Farbod Raeisi.</b>
         <br><br>
         I'm about to start my 7th semester as an Electrical Engineering student at K. N. Toosi University of Technology.<br>
-        I usually upload my personal projects here, as well as those completed in specific university courses.
+        I usually upload my personal projects here, as well as those completed in specific university courses.<br>
         <br> To learn more about me and access my academic CV, feel free to visit my
         <a href="https://farbod02.github.io" style="color: #0ecccc;"> personal webpage</a>.
     </h4>
