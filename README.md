@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Farbod Raeisi</h1>
 <h3 align="center">A</h3>
-
+    <header>
+        <h1>Farbod Raeisi</h1>
+        <p>Electrical Engineering Student | Control Theory | Deep Learning | Robotics | Aeronautics | Neural Engineering</p>
+    </header>
+    <h4><b>Hi, I'm Farbod Raeisi.</b><br>
+        I'm about to start my 7th semester as an Electrical Engineering student at K. N. Toosi University of Technology.<br>
+        
+        I usually upload my personal projects here, as well as those completed in specific university courses.<br> To learn more about me and access my academic CV, feel free to visit my
+        <a href="https://farbod02.github.io" style="color: #0ecccc;"> personal webpage</a>
+    </h4>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/astroferi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="astroferi" height="30" width="40" /></a>
